@@ -30,4 +30,4 @@ then all archers, and finally all the cavalry. That way, soldiers will battle fi
 archers, and finally the cavalry and the winner of the battle is return.
 
 
-Tools:  Pycharm
+Tools used:  Pycharm, Atom
