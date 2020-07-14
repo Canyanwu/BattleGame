@@ -1,7 +1,7 @@
 """
 Testing file for Question 2 of Interview Prac 2
 
-__author__  = 'Derek Anyanwu'
+__author__  = 'Derek Chukwudi Anyanwu'
 __author__  = "Maria Garcia de la Banda"
 __edited__  = "Ben Di Stefano"
 
