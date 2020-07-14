@@ -1,9 +1,10 @@
 """
 Testing file for Question 2 of Interview Prac 2
 
-__author__ = "Maria Garcia de la Banda"
 __edited__ = "Ben Di Stefano"
-__edited_by_student__ = 'Derek Anyanwu'
+__author__  = 'Derek Anyanwu'
+__author__  = "Maria Garcia de la Banda"
+__edited__  = "Ben Di Stefano"
 
 """
 
