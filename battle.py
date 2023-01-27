@@ -12,7 +12,7 @@ __conduct_combat(self, army1: Army, army2: Army, formation: int)
 
 """
 
-__author__ = "Derek Anyanwu"
+__author__ = "Chukwuudi (Chuchu) Anyanwu"
 
 from army import Army
 
